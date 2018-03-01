@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+    background-color: black;
+}
+
+footer {
+
+}
+
+h1 {
+    background-color: darkgrey;
+}
+
+h2 {
+    background-color: yellow;
+}
+.titlebar {
+
+}
+
+.mainContent {
+    padding: 20px;
+    border: darkgrey solid 1px;
+}
